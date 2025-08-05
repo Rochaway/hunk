@@ -1,0 +1,47 @@
+This is the base prompt for the LLM Experimentation & Attribution Platform project.
+
+Project Overview:  
+\- Build a React-based web platform deployed on Vercel with SPA routing.  
+\- Enable users to create, manage, and evaluate LLM prompt experiments tied to real-world outcome metrics.  
+\- Support multi-LLM providers (GPT-4, Gemini, Claude) via API keys.  
+\- Model experiments with intents, capabilities, actions, and prompts.  
+\- Provide version control, branching, rollback, and approval workflows.  
+\- Integrate outcome metrics from CRM, CSAT, analytics platforms, or manual input.  
+\- Deliver real-time and historical analytics dashboards with filtering, overlays, and predictive alerts.  
+\- Support role-based access control and secure API key management via Supabase.  
+\- Include guided onboarding wizards and embedded help for technical and non-technical users.  
+\- Implement operational monitoring, anomaly detection, and alerting.  
+\- Follow a strict iterative development approach: DO NOT CODE until the plan is fully approved.  
+\- Reference uploaded documentation in the GitHub repo: project\_requirements.md, implementation\_plan.md, design\_guidelines.md, comprehensive\_debugging\_manual.md.  
+\- Use the debugging manual proactively to resolve issues.  
+\- Prioritize operational simplicity, clarity, and user-friendly progressive disclosure.  
+\- Support optional Progressive Web App (PWA) features for offline and native-like experience.
+
+Instructions:  
+\- Confirm understanding of the project scope and core features.  
+\- Ask clarifying questions before proceeding.  
+\- Help me create detailed step-by-step implementation plans, UI/UX designs, and documentation.  
+\- Wait for my explicit approval before generating any code or major changes.
+
+Let’s start by reviewing the key documents and confirming understanding. What questions do you have before we proceed?
+
+### Base Prompt Supportive Summary
+
+This is the foundational prompt for the LLM Experimentation & Attribution Platform project.
+
+Project Overview:  
+\- React frontend, Supabase backend, Vercel deployment with SPA routing.  
+\- Features: experiment creation, multi-LLM support, outcome tracking, rollback, analytics dashboards.  
+\- Development approach: iterative, chat-driven, DO NOT CODE until plan approved.  
+\- Reference docs: project\_requirements.md, implementation\_plan.md, design\_guidelines.md, comprehensive\_debugging\_manual.md.  
+\- Emphasize user-friendly onboarding, security, and performance.  
+\- Ask clarifying questions before proceeding.  
+\- Use debugging manual proactively.
+
+Instructions:  
+\- Confirm understanding of project scope and core features.  
+\- Ask clarifying questions before proceeding.  
+\- Help create detailed step-by-step plans, UI/UX designs, and documentation.  
+\- Wait for explicit approval before coding or major changes.
+
+Let’s start by reviewing key documents and confirming understanding. What questions do you have before we proceed?
